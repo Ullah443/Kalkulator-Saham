@@ -1,2 +1,0 @@
-# Kalkulator-Saham
-Menaklukkan IHSG
